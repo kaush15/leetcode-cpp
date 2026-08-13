@@ -54,7 +54,7 @@ int main() {
 | Problem | Difficulty | Link | Solution |
 |---|---|---|---|
 | Two Sum | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [two-sum.cpp](arrays/two-sum.cpp) |
-| Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [two-sum.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate) |
+| Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [contains-duplicate.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
