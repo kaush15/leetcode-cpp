@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes, time/space complexity, and a runnable `main()` for local testing.
 
-**Progress:** 0 / 150+ solved
+**Progress:** 2 / 150+ solved
 **Language:** C++
 **Focus:** Arrays, Strings, Hashmaps, Linked Lists, Stacks/Queues, Binary Search, Recursion/Backtracking, Trees, Heaps, Graphs, Dynamic Programming, Greedy
 
@@ -54,6 +54,7 @@ int main() {
 | Problem | Difficulty | Link | Solution |
 |---|---|---|---|
 | Two Sum | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [two-sum.cpp](arrays/two-sum.cpp) |
+| Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [two-sum.cpp](arrays/contains-duplicate.cpp) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
