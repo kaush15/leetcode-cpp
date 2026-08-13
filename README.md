@@ -53,9 +53,9 @@ int main() {
 ### Arrays
 | Problem | Difficulty | Link | Solution |
 |---|---|---|---|
-| Two Sum | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [two-sum.cpp](arrays/two-sum.cpp) |
-| Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [contains-duplicate.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate) |
-| Product of Array Except Self | Medium | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/) | [product-of-array-except-self.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/product-of-array-except-self) |
+| Two Sum | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [two-sum.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/two-sum.cpp) |
+| Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [contains-duplicate.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate.cpp) |
+| Product of Array Except Self | Medium | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/) | [product-of-array-except-self.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/product-of-array-except-self.cpp) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
