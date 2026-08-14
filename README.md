@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes, time/space complexity, and a runnable `main()` for local testing.
 
-**Progress:** 3 / 150+ solved
+**Progress:** 5 / 150+ solved
 **Language:** C++
 **Focus:** Arrays, Strings, Hashmaps, Linked Lists, Stacks/Queues, Binary Search, Recursion/Backtracking, Trees, Heaps, Graphs, Dynamic Programming, Greedy
 
@@ -54,8 +54,10 @@ int main() {
 | Problem | Difficulty | Link | Solution |
 |---|---|---|---|
 | Two Sum | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [two-sum.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/two-sum.cpp) |
+| Best Time to Buy and Sell Stock | Easy | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [best-time-to-buy-and-sell-stock.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/best-time-to-buy-and-sell-stock.cpp) |
 | Contains Duplicate | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [contains-duplicate.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate.cpp) |
 | Product of Array Except Self | Medium | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/) | [product-of-array-except-self.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/product-of-array-except-self.cpp) |
+| Majority Element | Easy | [LeetCode](https://leetcode.com/problems/majority-element/) | [majority-element.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/majority-element.cpp) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
