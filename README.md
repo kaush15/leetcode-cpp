@@ -1,6 +1,6 @@
 # LeetCode Solutions (C++)
 
-Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes, time/space complexity, and a runnable `main()` for local testing.
+Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes and time/space complexity.
 
 **Progress:** 6 / 150+ solved
 **Language:** C++
@@ -108,4 +108,4 @@ int main() {
 
 ## About me
 
-Prepping for software engineering internships — building this repo alongside daily DSA practice and a C++ project. Feel free to check my [LinkedIn](#) or reach out.
+Prepping for software engineering internships — building this repo alongside daily DSA practice and a C++ project. Feel free to check my [LinkedIn](https://www.linkedin.com/in/kaushlendra-shukla-6a970835b/) or reach out.
