@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes and time/space complexity.
 
-**Progress:** 6 / 150+ solved
+**Progress:** 7 / 150+ solved
 **Language:** C++
 **Focus:** Arrays, Strings, Hashmaps, Linked Lists, Stacks/Queues, Binary Search, Recursion/Backtracking, Trees, Heaps, Graphs, Dynamic Programming, Greedy
 
@@ -59,6 +59,7 @@ int main() {
 | Product of Array Except Self | Medium | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/) | [product-of-array-except-self.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/product-of-array-except-self.cpp) |
 | Majority Element | Easy | [LeetCode](https://leetcode.com/problems/majority-element/) | [majority-element.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/majority-element.cpp) |
 | Contains Duplicate II | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | [contains-duplicate-II.cpp](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/contains-duplicate-II) |
+| Continuous Subarray Sum | Medium | [Leetcode](https://leetcode.com/problems/continuous-subarray-sum/) | [continuous-subarray-sum](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/continuous-subarray-sum) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
