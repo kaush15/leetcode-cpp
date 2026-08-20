@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes and time/space complexity.
 
-**Progress:** 10 / 150+ solved
+**Progress:** 11 / 150+ solved
 **Language:** C++
 **Focus:** Arrays, Strings, Hashmaps, Linked Lists, Stacks/Queues, Binary Search, Recursion/Backtracking, Trees, Heaps, Graphs, Dynamic Programming, Greedy
 
@@ -63,6 +63,7 @@ int main() {
 | Minimum Size Subarray Sum | Medium | [Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) | [minimum-size-subarray-sum](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/minimum-size-subarray-sum.cpp) |
 | Subarray Product Less Than K | Medium | [Leetcode](https://leetcode.com/problems/subarray-product-less-than-k/) | [subarray-product-less-than-k](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/subarray-product-less-than-k.cpp) |
 | Maximum Points You Can Obtain from Cards | Medium | [Leetcode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [maximum-points-you-can-obtain-from-cards](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/maximum-points-you-can-obtain-from-cards.cpp) |
+| Maximum Average Subarray I | Easy | [Leetcode](https://leetcode.com/problems/maximum-average-subarray-i/) | [maximum-average-subarray-i](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/maximum-average-subarray-i.cpp) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
