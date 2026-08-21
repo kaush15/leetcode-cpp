@@ -1,7 +1,7 @@
 // Problem: Intersection of Two Arrays II
 // Link: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 // Approach: Sort the both arrays then run a loop in both the arrays at same time
-// Time: O(m.n) | Space: O(1)
+// Time: O(mlongm +  nlogn) | Space: O(1)
 
 #include <iostream>
 #include <vector>
