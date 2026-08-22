@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems, organized by topic, as part of my prep for software engineering internships. Each solution is self-contained — includes the problem link, approach notes and time/space complexity.
 
-**Progress:** 13 / 150+ solved
+**Progress:** 14 / 150+ solved
 **Language:** C++
 **Focus:** Arrays, Strings, Hashmaps, Linked Lists, Stacks/Queues, Binary Search, Recursion/Backtracking, Trees, Heaps, Graphs, Dynamic Programming, Greedy
 
@@ -65,6 +65,7 @@ int main() {
 | Maximum Points You Can Obtain from Cards | Medium | [Leetcode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [maximum-points-you-can-obtain-from-cards](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/maximum-points-you-can-obtain-from-cards.cpp) |
 | Maximum Average Subarray I | Easy | [Leetcode](https://leetcode.com/problems/maximum-average-subarray-i/) | [maximum-average-subarray-i](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/maximum-average-subarray-i.cpp) |
 | Intersection of Two Arrays II | Easy | [Leetcode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [intersection-of-two-arrays-ii](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/intersection-of-two-arrays-ii.cpp) |
+| Maximum Number of Vowels in a Substring of Given Length | Medium | [Leetcode](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaush15/leetcode-cpp/blob/main/arrays/maximum-number-of-vowels-in-a-substring-of-given-length.cpp) |
 
 ### Strings
 | Problem | Difficulty | Link | Solution |
